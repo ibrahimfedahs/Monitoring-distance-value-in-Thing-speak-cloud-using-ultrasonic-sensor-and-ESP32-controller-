@@ -1,10 +1,8 @@
-# Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
+NAME: IBRAHIM FEDAH S
+REG NO: 212223240056
 
-# Uploading ultrasonic sensor data in Thing Speak cloud
-```
-  Name : ibrahim fedah s
-  REG NO : 212223240056
-```
+# EX NO:6 Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller
+
 # AIM:
 To monitor the distance of the obstacle in the Thing speak cloud using ultrasonic sensor and ESP32 controller.
 # Apparatus required:
